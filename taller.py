@@ -16,3 +16,14 @@ def suma(num1, num2):
 
 
 print(suma(10,5))
+
+def resta(num1, num2):
+    num3 = num2 - num1
+    return num3
+
+
+print(resta(10,5))
+
+
+
+
